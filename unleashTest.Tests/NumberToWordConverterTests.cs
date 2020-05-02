@@ -1,7 +1,7 @@
 ﻿
 using Xunit;
 
-namespace unleashTest
+namespace unleashTest.Tests
 {
     public class NumberToWordConverterTests
     {
